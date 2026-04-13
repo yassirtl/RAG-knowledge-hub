@@ -2,7 +2,7 @@
 
 > A production-grade RAG application that lets you chat with your documents — PDFs, web pages, and Markdown files — with source-attributed answers.
 
-[![CI](https://github.com/your-username/knowledge-hub/actions/workflows/ci.yml/badge.svg)](https://github.com/your-username/knowledge-hub/actions)
+[![CI](https://github.com/yassirtl/RAG-knowledge-hub/actions/workflows/ci.yml/badge.svg)](https://github.com/yassirtl/RAG-knowledge-hub/actions)
 [![Python](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
@@ -74,7 +74,7 @@
 ### 1. Clone and configure
 
 ```bash
-git clone https://github.com/your-username/knowledge-hub.git
+git clone https://github.com/yassirtl/RAG-knowledge-hub.git
 cd knowledge-hub
 cp .env.example .env
 # Edit .env and set OPENAI_API_KEY
